@@ -1,0 +1,74 @@
+.main {
+    padding: 20px!important;
+    border: 5px solid black;
+    background-color:black;
+}
+
+#aside {
+    padding-top:10px;
+}
+
+table {
+    display: block;
+    height: 500px!important;
+    overflow-y: scroll!important;  
+    scroll-behavior:smooth;
+    border: 3px outset rgb(26, 29, 29);
+}
+
+/* #header-image { */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+    opacity:0.7;
+
+}
+
+#truth {
+    width:100%;
+}
+header {
+    background-color:black;
+    margin-bottom:-10px;
+}
+
+input{
+    background-color:black;
+}
+
+#header {
+    color:#B8B8B8;
+    font-family:Papyrus;
+    text-align: center;
+    position: relative;
+    font-size:50px;
+}
+h5 {
+    color:#B8B8B8;
+    font-family: Copperplate; 
+}
+
+th{
+    font-family: Copperplate; 
+    font-style: italic; 
+    color:#B8B8B8	;
+    font-size:20px;
+    background-color:rgb(16, 17, 17);
+
+}
+
+
+td {
+    font-family: Copperplate; 
+    font-variant: normal; 
+    font-weight: 70;
+    color:#B8B8B8	;
+}
+
+input {
+    width:100%;
+    color: #C0C0C0;
+}
+
