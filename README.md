@@ -1,2 +1,2 @@
-# Mysteries-Sightings
+# Mysterious-Sightings
 JavaScript and DOM Manipulation
